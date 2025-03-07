@@ -1,0 +1,17 @@
+.idea
+Logs
+Library
+Assets/AI proto
+Assets/AI proto.meta/
+venv
+results
+Temp
+.vscode/
+.DS_Store/
+
+.bin/
+obj/
+
+.idea/
+*~
+*.DotSettings.user
